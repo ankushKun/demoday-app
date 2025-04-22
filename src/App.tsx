@@ -17,10 +17,10 @@ export default function App() {
     }}>
       <div className={`scanline max-w-2xl mx-auto ${mounted ? 'animate-fade-in' : 'opacity-0'}`}>
         <div className="relative mb-12">
-          <h1 className={`text-4xl font-bold text-center mb-2 hover-glitch`}>
+          <h1 className="text-4xl font-bold text-center mb-2 transition-transform hover:scale-[1.02]">
             Arweave Day India
           </h1>
-          <h2 className={`text-xl text-center text-emerald-400 animate-slide-up`} style={{
+          <h2 className="text-xl text-center text-emerald-400 animate-slide-up" style={{
             animationDelay: '0.2s'
           }}>
             Demo Day Projects
@@ -38,10 +38,10 @@ export default function App() {
             <button
               key={project.id}
               onClick={() => setActiveTab(index)}
-              className={`relative flex-1 py-3 px-6 text-center font-medium border transition-all duration-300 hover-glitch
+              className={`relative flex-1 py-3 px-6 text-center font-medium border transition-all duration-300
                 ${activeTab === index
-                  ? 'border-emerald-400 text-emerald-400'
-                  : 'border-gray-700 text-gray-400 hover:border-gray-500'
+                  ? 'border-emerald-400 text-emerald-400 scale-[1.02]'
+                  : 'border-gray-700 text-gray-400 hover:border-gray-500 hover:scale-[1.02]'
                 } animate-fade-in`}
               style={{
                 animationDelay: `${0.1 * (index + 1)}s`

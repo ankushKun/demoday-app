@@ -10,7 +10,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
     };
 
     return (
-        <div className="relative border border-gray-700 bg-black/50 p-8 group hover-glitch">
+        <div className="relative border border-gray-700 bg-black/50 p-8 group transition-transform hover:scale-[1.01]">
             <div className="absolute -top-1 -right-1">
                 <div className="w-2 h-2 bg-emerald-400"></div>
             </div>
@@ -27,7 +27,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
                     />
                 </div>
 
-                <h2 className="text-3xl font-bold text-white mb-4 hover-glitch">{project.name}</h2>
+                <h2 className="text-3xl font-bold text-white mb-4 transition-transform hover:scale-[1.02]">{project.name}</h2>
                 <p className="text-gray-400 text-center mb-8 max-w-lg animate-fade-in" style={{
                     animationDelay: '0.2s'
                 }}>{project.description}</p>
@@ -39,7 +39,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
                             onClick={() => handleButtonClick(action.toLowerCase())}
                             className="flex-1 border border-emerald-400 bg-emerald-400/10 text-emerald-400 py-3 px-6 
                                 hover:bg-emerald-400/20 transition-all duration-300 relative group/button
-                                animate-fade-in hover-glitch"
+                                animate-fade-in hover:scale-[1.02]"
                             style={{
                                 animationDelay: `${0.3 + (index * 0.1)}s`
                             }}
