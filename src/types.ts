@@ -4,4 +4,7 @@ export interface Project {
     logo: string;
     description: string;
     telegramGroup: string;
+    investText: string;
+    contributeText: string;
+    collaborateText: string;
 } 

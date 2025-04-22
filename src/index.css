@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 body {
@@ -13,8 +13,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: #1a1a1a;
 }
 
 @layer utilities {
@@ -67,7 +67,7 @@ body {
   background: linear-gradient(
     to bottom,
     transparent 50%,
-    rgba(0, 255, 149, 0.1) 50%
+    rgba(16, 185, 129, 0.05) 50%
   );
   background-size: 100% 4px;
   animation: scanline 4s linear infinite;
