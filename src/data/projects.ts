@@ -42,7 +42,7 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/tokenizee.png",
         description: "Post it, chain it, gain it",
-        telegramGroup: "https://t.me/",
+        telegramGroup: "https://t.me/PrabhjotSingh9",
         investText: "Get in touch",
         contributeText: "Get in touch",
         collaborateText: "Get in touch"
