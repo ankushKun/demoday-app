@@ -42,10 +42,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/tokenizee.png",
         description: "Post it, chain it, gain it",
-        telegramGroup: "https://t.me/tokenizee",
-        investText: "Invest in Tokenizee",
-        contributeText: "Contribute to Tokenizee",
-        collaborateText: "Collaborate with Tokenizee"
+        telegramGroup: "https://t.me/",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 5,
@@ -53,10 +53,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/weavebox.png",
         description: "A bridging tool between Google Drive and Arweave",
-        telegramGroup: "https://t.me/weavebox",
-        investText: "Invest in WeaveBox",
-        contributeText: "Contribute to WeaveBox",
-        collaborateText: "Collaborate with WeaveBox"
+        telegramGroup: "https://t.me/ITS_ARYAN_007",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 6,
@@ -64,10 +64,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/flux.png",
         description: "Making AO simpler and more accessible for new users",
-        telegramGroup: "https://t.me/flux",
-        investText: "Invest in Flux",
-        contributeText: "Contribute to Flux",
-        collaborateText: "Collaborate with Flux"
+        telegramGroup: "https://t.me/",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 7,
@@ -75,10 +75,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/tweeti.png",
         description: "Let Tweeti amplify your voice across the internet, while you focus on shipping",
-        telegramGroup: "https://t.me/tweeti",
-        investText: "Invest in Tweeti",
-        contributeText: "Contribute to Tweeti",
-        collaborateText: "Collaborate with Tweeti"
+        telegramGroup: "https://t.me/aryanzutshi",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 8,
@@ -86,10 +86,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/nitya.png",
         description: "Step into a thriving ecosystem with easy onboarding and community-powered deployment",
-        telegramGroup: "https://t.me/nitya",
-        investText: "Invest in Nitya",
-        contributeText: "Contribute to Nitya",
-        collaborateText: "Collaborate with Nitya"
+        telegramGroup: "https://t.me/Arpitpassi1515",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 9,
@@ -97,10 +97,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/deltafi.png",
         description: "Autonomous Arbitrage Agent Powered by AO",
-        telegramGroup: "https://t.me/deltafi",
-        investText: "Invest in DeltaFi",
-        contributeText: "Contribute to DeltaFi",
-        collaborateText: "Collaborate with DeltaFi"
+        telegramGroup: "https://t.me/dharminnagar",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 10,
@@ -108,10 +108,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/ardacity.png",
         description: "An Arweave Based Component Library",
-        telegramGroup: "https://t.me/ardacity",
-        investText: "Invest in ArDacity",
-        contributeText: "Contribute to ArDacity",
-        collaborateText: "Collaborate with ArDacity"
+        telegramGroup: "https://t.me/IronicRayquaza",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 11,
@@ -119,10 +119,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/permasign.png",
         description: "Verifiable, immutable and permanent E-signed Agreement Management solution",
-        telegramGroup: "https://t.me/permasign",
-        investText: "Invest in PermaSign",
-        contributeText: "Contribute to PermaSign",
-        collaborateText: "Collaborate with PermaSign"
+        telegramGroup: "https://t.me/vaibhav0806",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 12,
@@ -130,10 +130,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/chronoclash.png",
         description: "Online Card Based PvP Game on AO",
-        telegramGroup: "https://t.me/chronoclash",
-        investText: "Invest in Chrono Clash",
-        contributeText: "Contribute to Chrono Clash",
-        collaborateText: "Collaborate with Chrono Clash"
+        telegramGroup: "https://t.me/Omkar_Jadhav7",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 13,
@@ -141,10 +141,10 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/flowweave.png",
         description: "Drag. Connect. Automate — The No-Code Automation Platform for Web2 and Web3 Workflows, stored forever on Arweave | Weaving the future of automation",
-        telegramGroup: "https://t.me/flowweave",
-        investText: "Invest in Flowweave",
-        contributeText: "Contribute to Flowweave",
-        collaborateText: "Collaborate with Flowweave"
+        telegramGroup: "https://t.me/rahul_barman",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     },
     {
         id: 14,
@@ -152,9 +152,9 @@ export const projects: Project[] = [
         category: "hackerhouse",
         logo: "/logos/aura.png",
         description: "The ultimate routing framework for intelligent IoT flows around ao",
-        telegramGroup: "https://t.me/aura",
-        investText: "Invest in AURA",
-        contributeText: "Contribute to AURA",
-        collaborateText: "Collaborate with AURA"
+        telegramGroup: "https://t.me/itachi_00000",
+        investText: "Get in touch",
+        contributeText: "Get in touch",
+        collaborateText: "Get in touch"
     }
 ]; 
