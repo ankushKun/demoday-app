@@ -6,7 +6,7 @@ interface ProjectCardProps {
 
 export default function ProjectCard({ project }: ProjectCardProps) {
     const handleButtonClick = () => {
-        const message = `Hi, I'm interested in ${project.name} and would like to get in touch!`;
+        const message = `Hi, Im interested in ${project.name} and would like to get in touch!`;
         window.open(project.telegramGroup + "?text=" + encodeURIComponent(message), '_blank');
     };
 
